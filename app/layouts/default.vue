@@ -7,14 +7,6 @@
     </main>
 
     <Footer />
-
-    <!-- <UModal v-model="isModalOpen">
-      <UCard>
-        <div class="p-4 text-center text-gray-600 dark:text-gray-300">
-          Platform hakkında detaylı bilgi burada yer alacak.
-        </div>
-      </UCard>
-    </UModal> -->
   </div>
 </template>
 
