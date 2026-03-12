@@ -4,5 +4,7 @@
   "blogs": "Blogs",
   "privacy": "Privacy",
   "terms": "Terms",
-  "contact": "Contact"
+  "contact": "Contact",
+  "day":"Day",
+  "week":"Week"
 }

@@ -36,10 +36,18 @@ export default defineNuxtConfig({
   },
   supabase: {
       redirectOptions: {
-      login: '/login',
+      login: '/',//We do not want to sent to login page.
       callback: '/confirm',
       // Admin dışındaki sayfaların (anasayfa gibi) herkese açık kalması için:
-      include: ['/panel'], 
+      exclude: [
+        '/',
+        '/about',
+        '/blogs/*',
+        '/contact',
+        '/login',
+        '/privacy',
+        '/terms',
+      ], 
     }
   },
 
