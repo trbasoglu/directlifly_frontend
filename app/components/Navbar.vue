@@ -52,6 +52,7 @@
           @click="$emit('open-info')"
         />
         <div v-if="user" class="flex items-center gap-4">
+          <NuxtLink to="/components" class="text-sm font-medium">Components</NuxtLink>
           <NuxtLink to="/panel" class="text-sm font-medium">Panel</NuxtLink>
           <UButton color="red" variant="ghost" size="xs" @click="logout">Çıkış</UButton>
         </div>
