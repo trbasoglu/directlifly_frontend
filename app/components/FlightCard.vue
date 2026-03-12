@@ -72,7 +72,6 @@
     </div>
   </div>
 </template>
-her componentde dynamic olarak hespalanması yerine props ile bir kezde geç.
 
 <script setup lang="ts">
 defineProps<{
