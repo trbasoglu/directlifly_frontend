@@ -6,5 +6,15 @@
   "terms":"Koşullar",
   "contact":"İletişim",
   "day":"Gün",
-  "week":"Hafta"
+  "week":"Hafta",
+  "weekly_schedule": "Haftalık Program",
+  "flight_calendar": "Uçuş Takvimi",
+  "time":"Kalkış Saati",
+  "Monday": "Pazartesi",
+  "Tuesday": "Salı",
+  "Wednesday": "Çarşamba",
+  "Thursday": "Perşembe",
+  "Friday": "Cuma",
+  "Saturday": "Cumartesi",
+  "Sunday": "Pazar"
 }
