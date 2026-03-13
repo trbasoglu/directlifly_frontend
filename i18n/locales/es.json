@@ -6,5 +6,15 @@
   "terms": "Condiciones",
   "contact": "Contacto",
   "day":"Dia",
-  "week":"Semana"
+  "week":"Semana",
+  "weekly_schedule": "Horario Semanal",
+  "flight_calendar": "Calendario de vuelos",
+  "time":"Hora de salida",
+  "Monday": "Lunes",
+  "Tuesday": "Martes",
+  "Wednesday": "Miércoles",
+  "Thursday": "Jueves",
+  "Friday": "Viernes",
+  "Saturday": "Sábado",
+  "Sunday": "Domingo"
 }

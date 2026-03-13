@@ -18,8 +18,24 @@
             class="w-full md:w-[240px] snap-start" 
             />
         </div>
+        <div>
+        <button 
+            @click="isScheduleOpen = true"
+            class="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-colors"
+            >
+            {{$t('flight_calendar')}}
+            </button>
+
+            <WeeklyScheduleModal 
+            :is-open="isScheduleOpen" 
+            :schedule-data="mockSchedule"
+            @close="isScheduleOpen = false" 
+            />
+        </div>
     </section>
     </div>
+
+    
 </template>
 
 
@@ -110,4 +126,41 @@ const flights = [
     tagline: "The heartbeat of Europe 🎶"
   }
 ];
+
+
+const isScheduleOpen = ref(false)
+
+// Mock data based on your screenshot
+const mockSchedule = ref([
+  { day: 'Monday', time: '00:00', location: 'Istanbul' },
+  { day: 'Monday', time: '00:00', location: 'London' },
+  { day: 'Monday', time: '00:00', location: 'Ankara' },
+  { day: 'Monday', time: '00:00', location: 'Madrid' },
+  { day: 'Monday', time: '01:00', location: 'Giza' },
+  { day: 'Monday', time: '04:00', location: 'Istanbul' },
+  { day: 'Monday', time: '05:00', location: 'Istanbul' },
+  
+  { day: 'Tuesday', time: '02:30', location: 'Medinah' },
+  { day: 'Tuesday', time: '03:30', location: 'Istanbul' },
+  { day: 'Tuesday', time: '04:00', location: 'Istanbul' },
+  { day: 'Tuesday', time: '05:00', location: 'Istanbul' },
+  { day: 'Tuesday', time: '05:00', location: 'Istanbul' },
+
+  { day: 'Wednesday', time: '02:00', location: 'Tehran' },
+  { day: 'Wednesday', time: '04:00', location: 'Istanbul' },
+  
+  { day: 'Thursday', time: '04:00', location: 'Istanbul' },
+  
+  { day: 'Friday', time: '01:00', location: 'Giza' },
+  { day: 'Friday', time: '04:00', location: 'Istanbul' },
+  { day: 'Friday', time: '04:00', location: 'Istanbul' },
+  
+  { day: 'Saturday', time: '02:00', location: 'Antalya' },
+  { day: 'Saturday', time: '02:00', location: 'Antalya' },
+  { day: 'Saturday', time: '02:30', location: 'Hannover' },
+  { day: 'Saturday', time: '02:30', location: 'Cologne/Bonn' },
+  { day: 'Saturday', time: '04:00', location: 'Istanbul' },
+  
+  // ... add more data as needed
+])
 </script>
