@@ -1,0 +1,6218 @@
+[
+    {
+        "flight_step": 0,
+        "airportCode": "SAW",
+        "departureTime": "00:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 2,
+        "airportCode": "SPX",
+        "departureTime": "01:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 8,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 8,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 8,
+        "airportCode": "SAW",
+        "departureTime": "04:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 9,
+        "airportCode": "ESB",
+        "departureTime": "04:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 10,
+        "airportCode": "SAW",
+        "departureTime": "05:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 10,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 11,
+        "airportCode": "DIY",
+        "departureTime": "05:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 11,
+        "airportCode": "ERZ",
+        "departureTime": "05:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 11,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 12,
+        "airportCode": "TZX",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 12,
+        "airportCode": "SZF",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 12,
+        "airportCode": "COV",
+        "departureTime": "06:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 13,
+        "airportCode": "COV",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 14,
+        "airportCode": "ESB",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 14,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 14,
+        "airportCode": "SAW",
+        "departureTime": "07:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 15,
+        "airportCode": "SAW",
+        "departureTime": "07:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 16,
+        "airportCode": "ECN",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 16,
+        "airportCode": "SAW",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 17,
+        "airportCode": "ESB",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 17,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 17,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 17,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 17,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 18,
+        "airportCode": "LIS",
+        "departureTime": "09:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 19,
+        "airportCode": "SAW",
+        "departureTime": "09:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 19,
+        "airportCode": "KSY",
+        "departureTime": "09:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 19,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 19,
+        "airportCode": "EZS",
+        "departureTime": "09:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "VAN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 21,
+        "airportCode": "BCN",
+        "departureTime": "10:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 22,
+        "airportCode": "SAW",
+        "departureTime": "11:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 22,
+        "airportCode": "SAW",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "MXP",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "HAM",
+        "departureTime": "11:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "BER",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 23,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 24,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 24,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 24,
+        "airportCode": "ECN",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 24,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 25,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 25,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 25,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 25,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 25,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 26,
+        "airportCode": "VIE",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 26,
+        "airportCode": "VIE",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 26,
+        "airportCode": "SAW",
+        "departureTime": "13:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 28,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 29,
+        "airportCode": "OGU",
+        "departureTime": "14:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 30,
+        "airportCode": "SAW",
+        "departureTime": "15:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 30,
+        "airportCode": "SAW",
+        "departureTime": "15:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 31,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 31,
+        "airportCode": "CGN",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 31,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 32,
+        "airportCode": "COV",
+        "departureTime": "16:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 33,
+        "airportCode": "SAW",
+        "departureTime": "16:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 33,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 33,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 33,
+        "airportCode": "ESB",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 36,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 36,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 36,
+        "airportCode": "SAW",
+        "departureTime": "18:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 37,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 38,
+        "airportCode": "SAW",
+        "departureTime": "19:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 40,
+        "airportCode": "ESB",
+        "departureTime": "20:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 40,
+        "airportCode": "VAS",
+        "departureTime": "20:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "GZT",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "COV",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "MLX",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "ECN",
+        "departureTime": "20:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 41,
+        "airportCode": "HTY",
+        "departureTime": "20:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 42,
+        "airportCode": "SAW",
+        "departureTime": "21:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 42,
+        "airportCode": "ASR",
+        "departureTime": "21:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 42,
+        "airportCode": "ESB",
+        "departureTime": "21:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 43,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 43,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 43,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 43,
+        "airportCode": "SAW",
+        "departureTime": "21:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 43,
+        "airportCode": "SAW",
+        "departureTime": "21:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 44,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 44,
+        "airportCode": "DUB",
+        "departureTime": "22:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 44,
+        "airportCode": "ESB",
+        "departureTime": "22:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 46,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 46,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 47,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 47,
+        "airportCode": "COV",
+        "departureTime": "23:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 48,
+        "airportCode": "IST",
+        "departureTime": "00:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 48,
+        "airportCode": "SAW",
+        "departureTime": "00:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 55,
+        "airportCode": "SAW",
+        "departureTime": "03:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 56,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 56,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 56,
+        "airportCode": "SAW",
+        "departureTime": "04:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 57,
+        "airportCode": "ESB",
+        "departureTime": "04:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 58,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 58,
+        "airportCode": "SAW",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 59,
+        "airportCode": "DIY",
+        "departureTime": "05:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 59,
+        "airportCode": "EZS",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 59,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 60,
+        "airportCode": "GZT",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 60,
+        "airportCode": "COV",
+        "departureTime": "06:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 61,
+        "airportCode": "AMS",
+        "departureTime": "06:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 61,
+        "airportCode": "MQM",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 62,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 62,
+        "airportCode": "SAW",
+        "departureTime": "07:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 63,
+        "airportCode": "ASR",
+        "departureTime": "07:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 63,
+        "airportCode": "GNY",
+        "departureTime": "07:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 63,
+        "airportCode": "ESB",
+        "departureTime": "07:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 63,
+        "airportCode": "SAW",
+        "departureTime": "07:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 63,
+        "airportCode": "IST",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 64,
+        "airportCode": "ECN",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 64,
+        "airportCode": "SAW",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 65,
+        "airportCode": "ESB",
+        "departureTime": "08:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 65,
+        "airportCode": "ESB",
+        "departureTime": "08:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 65,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 65,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 65,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 65,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 66,
+        "airportCode": "ESB",
+        "departureTime": "09:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 66,
+        "airportCode": "SAW",
+        "departureTime": "09:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 67,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 67,
+        "airportCode": "CDG",
+        "departureTime": "09:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 69,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 69,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 69,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 69,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 69,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 69,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 70,
+        "airportCode": "SAW",
+        "departureTime": "11:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 70,
+        "airportCode": "SAW",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 70,
+        "airportCode": "TGD",
+        "departureTime": "11:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "HAJ",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "BER",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 71,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "ZRH",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "ZRH",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "SAW",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 72,
+        "airportCode": "ECN",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "GYD",
+        "departureTime": "12:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "SAW",
+        "departureTime": "12:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 73,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 75,
+        "airportCode": "AJI",
+        "departureTime": "13:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 76,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 76,
+        "airportCode": "COV",
+        "departureTime": "14:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 77,
+        "airportCode": "ESB",
+        "departureTime": "14:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 78,
+        "airportCode": "SAW",
+        "departureTime": "15:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 78,
+        "airportCode": "SAW",
+        "departureTime": "15:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 79,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 79,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 80,
+        "airportCode": "SKP",
+        "departureTime": "16:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 80,
+        "airportCode": "RZV",
+        "departureTime": "16:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 81,
+        "airportCode": "FCO",
+        "departureTime": "16:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 81,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 81,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 81,
+        "airportCode": "ESB",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 82,
+        "airportCode": "WAW",
+        "departureTime": "17:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 83,
+        "airportCode": "SAW",
+        "departureTime": "17:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 84,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 84,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 84,
+        "airportCode": "BAL",
+        "departureTime": "18:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 85,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "ESB",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "ESB",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "ESB",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "ESB",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 87,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 89,
+        "airportCode": "COV",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 89,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 89,
+        "airportCode": "SZF",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 90,
+        "airportCode": "ESB",
+        "departureTime": "21:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 90,
+        "airportCode": "ESB",
+        "departureTime": "21:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 90,
+        "airportCode": "COV",
+        "departureTime": "21:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 90,
+        "airportCode": "SAW",
+        "departureTime": "21:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 91,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 91,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 91,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 91,
+        "airportCode": "SAW",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 92,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 93,
+        "airportCode": "ECN",
+        "departureTime": "22:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 94,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 94,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 94,
+        "airportCode": "VKO",
+        "departureTime": "23:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 94,
+        "airportCode": "SAW",
+        "departureTime": "23:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 95,
+        "airportCode": "SAW",
+        "departureTime": "23:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 95,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 106,
+        "airportCode": "ESB",
+        "departureTime": "05:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 106,
+        "airportCode": "SAW",
+        "departureTime": "05:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 106,
+        "airportCode": "SAW",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 106,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 107,
+        "airportCode": "DIY",
+        "departureTime": "05:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 107,
+        "airportCode": "TZX",
+        "departureTime": "05:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 107,
+        "airportCode": "TZX",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 107,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 108,
+        "airportCode": "HTY",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 108,
+        "airportCode": "COV",
+        "departureTime": "06:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 109,
+        "airportCode": "COV",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 110,
+        "airportCode": "ESB",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 110,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 110,
+        "airportCode": "FRA",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 110,
+        "airportCode": "FRA",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 110,
+        "airportCode": "SAW",
+        "departureTime": "07:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 111,
+        "airportCode": "IKA",
+        "departureTime": "07:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 111,
+        "airportCode": "ECN",
+        "departureTime": "07:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 111,
+        "airportCode": "SAW",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 111,
+        "airportCode": "IST",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 112,
+        "airportCode": "LXR",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 112,
+        "airportCode": "SAW",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 113,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 113,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 113,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 113,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 114,
+        "airportCode": "LIS",
+        "departureTime": "09:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 114,
+        "airportCode": "SAW",
+        "departureTime": "09:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 115,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "BAL",
+        "departureTime": "10:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "SSH",
+        "departureTime": "10:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "VAN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 117,
+        "airportCode": "MAD",
+        "departureTime": "10:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 118,
+        "airportCode": "SAW",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "BRU",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "BRU",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "HAM",
+        "departureTime": "11:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 119,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 120,
+        "airportCode": "ECN",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 120,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 120,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 120,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 120,
+        "airportCode": "BSL",
+        "departureTime": "12:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 121,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 121,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 121,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 121,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 121,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 122,
+        "airportCode": "VIE",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 122,
+        "airportCode": "VIE",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 122,
+        "airportCode": "SAW",
+        "departureTime": "13:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 124,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 125,
+        "airportCode": "ESB",
+        "departureTime": "14:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 126,
+        "airportCode": "SAW",
+        "departureTime": "15:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 126,
+        "airportCode": "ESB",
+        "departureTime": "15:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 127,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 127,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 128,
+        "airportCode": "COV",
+        "departureTime": "16:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 129,
+        "airportCode": "SAW",
+        "departureTime": "16:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 129,
+        "airportCode": "MQM",
+        "departureTime": "16:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 129,
+        "airportCode": "ESB",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 129,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 129,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 131,
+        "airportCode": "SAW",
+        "departureTime": "17:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 132,
+        "airportCode": "IST",
+        "departureTime": "18:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 132,
+        "airportCode": "IST",
+        "departureTime": "18:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 132,
+        "airportCode": "SAW",
+        "departureTime": "18:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 133,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 133,
+        "airportCode": "ESB",
+        "departureTime": "18:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 134,
+        "airportCode": "ORY",
+        "departureTime": "19:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 134,
+        "airportCode": "SAW",
+        "departureTime": "19:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 135,
+        "airportCode": "SAW",
+        "departureTime": "19:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 135,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 135,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 135,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 136,
+        "airportCode": "ASR",
+        "departureTime": "20:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "ASR",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "GZT",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "ECN",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "GNY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "COV",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "GZT",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "SZF",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 137,
+        "airportCode": "COV",
+        "departureTime": "20:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 138,
+        "airportCode": "ESB",
+        "departureTime": "21:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 139,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 139,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 139,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 139,
+        "airportCode": "SAW",
+        "departureTime": "21:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 140,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 140,
+        "airportCode": "SAW",
+        "departureTime": "22:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 140,
+        "airportCode": "SKD",
+        "departureTime": "22:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 140,
+        "airportCode": "IST",
+        "departureTime": "22:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 141,
+        "airportCode": "EZS",
+        "departureTime": "22:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 142,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 142,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 143,
+        "airportCode": "SAW",
+        "departureTime": "23:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 143,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 143,
+        "airportCode": "IST",
+        "departureTime": "23:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 152,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 152,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 153,
+        "airportCode": "ESB",
+        "departureTime": "04:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 153,
+        "airportCode": "SAW",
+        "departureTime": "04:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 154,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 154,
+        "airportCode": "SAW",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 155,
+        "airportCode": "DIY",
+        "departureTime": "05:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 155,
+        "airportCode": "ERZ",
+        "departureTime": "05:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 155,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 156,
+        "airportCode": "GZT",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 156,
+        "airportCode": "SZF",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 156,
+        "airportCode": "ASR",
+        "departureTime": "06:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 156,
+        "airportCode": "COV",
+        "departureTime": "06:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 157,
+        "airportCode": "VAS",
+        "departureTime": "06:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 157,
+        "airportCode": "ESB",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 157,
+        "airportCode": "COV",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 157,
+        "airportCode": "GNY",
+        "departureTime": "06:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 158,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 159,
+        "airportCode": "RZV",
+        "departureTime": "07:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 159,
+        "airportCode": "IST",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 160,
+        "airportCode": "SAW",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 160,
+        "airportCode": "ATH",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 160,
+        "airportCode": "ECN",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 161,
+        "airportCode": "SAW",
+        "departureTime": "08:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 161,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 161,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 161,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 161,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 162,
+        "airportCode": "SSH",
+        "departureTime": "09:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 162,
+        "airportCode": "SAW",
+        "departureTime": "09:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 163,
+        "airportCode": "KSY",
+        "departureTime": "09:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 163,
+        "airportCode": "AYT",
+        "departureTime": "09:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 163,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 164,
+        "airportCode": "STN",
+        "departureTime": "10:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 164,
+        "airportCode": "BAL",
+        "departureTime": "10:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "SAW",
+        "departureTime": "10:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 165,
+        "airportCode": "VAN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 166,
+        "airportCode": "TGD",
+        "departureTime": "11:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 166,
+        "airportCode": "SAW",
+        "departureTime": "11:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "BCN",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "MXP",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "HAJ",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "BER",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 167,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 168,
+        "airportCode": "ECN",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 168,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 168,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 168,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "NUE",
+        "departureTime": "12:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "GYD",
+        "departureTime": "12:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "AMS",
+        "departureTime": "12:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 169,
+        "airportCode": "CDG",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 170,
+        "airportCode": "IST",
+        "departureTime": "13:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 172,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 173,
+        "airportCode": "TBZ",
+        "departureTime": "14:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 173,
+        "airportCode": "SAW",
+        "departureTime": "14:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 173,
+        "airportCode": "BEG",
+        "departureTime": "14:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 174,
+        "airportCode": "SAW",
+        "departureTime": "15:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 174,
+        "airportCode": "COV",
+        "departureTime": "15:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 175,
+        "airportCode": "DIY",
+        "departureTime": "15:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 175,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 175,
+        "airportCode": "VAN",
+        "departureTime": "15:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 175,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 175,
+        "airportCode": "CGN",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 176,
+        "airportCode": "ESB",
+        "departureTime": "16:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 176,
+        "airportCode": "AJI",
+        "departureTime": "16:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 177,
+        "airportCode": "ESB",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 177,
+        "airportCode": "MSR",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 178,
+        "airportCode": "IST",
+        "departureTime": "17:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 178,
+        "airportCode": "IST",
+        "departureTime": "17:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 179,
+        "airportCode": "SAW",
+        "departureTime": "17:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 179,
+        "airportCode": "SKP",
+        "departureTime": "17:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 180,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 180,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 181,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 182,
+        "airportCode": "SAW",
+        "departureTime": "19:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 182,
+        "airportCode": "MQM",
+        "departureTime": "19:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 183,
+        "airportCode": "SAW",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 183,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 183,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 183,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 184,
+        "airportCode": "ESB",
+        "departureTime": "20:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 184,
+        "airportCode": "ASR",
+        "departureTime": "20:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "GZT",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "MQM",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "SAW",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "GNY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "ESB",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "COV",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "MLX",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 185,
+        "airportCode": "ERZ",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 186,
+        "airportCode": "ECN",
+        "departureTime": "21:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 186,
+        "airportCode": "SAW",
+        "departureTime": "21:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 187,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 187,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 187,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 187,
+        "airportCode": "SAW",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 187,
+        "airportCode": "ESB",
+        "departureTime": "21:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 187,
+        "airportCode": "TZX",
+        "departureTime": "21:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 188,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 188,
+        "airportCode": "SAW",
+        "departureTime": "22:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 189,
+        "airportCode": "ECN",
+        "departureTime": "22:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 190,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 190,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 190,
+        "airportCode": "VKO",
+        "departureTime": "23:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 190,
+        "airportCode": "COV",
+        "departureTime": "23:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 191,
+        "airportCode": "SAW",
+        "departureTime": "23:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 191,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 191,
+        "airportCode": "COV",
+        "departureTime": "23:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 194,
+        "airportCode": "SPX",
+        "departureTime": "01:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 196,
+        "airportCode": "JED",
+        "departureTime": "02:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 200,
+        "airportCode": "SAW",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 200,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 200,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 202,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 202,
+        "airportCode": "SAW",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 203,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 204,
+        "airportCode": "ECN",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 204,
+        "airportCode": "GZT",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 204,
+        "airportCode": "EZS",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 204,
+        "airportCode": "ECN",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 204,
+        "airportCode": "COV",
+        "departureTime": "06:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 205,
+        "airportCode": "SAW",
+        "departureTime": "06:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 205,
+        "airportCode": "TZX",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 205,
+        "airportCode": "COV",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 206,
+        "airportCode": "ESB",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 206,
+        "airportCode": "BRU",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 206,
+        "airportCode": "BRU",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 206,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 206,
+        "airportCode": "FRA",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 206,
+        "airportCode": "FRA",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 207,
+        "airportCode": "IKA",
+        "departureTime": "07:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 207,
+        "airportCode": "SAW",
+        "departureTime": "07:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 207,
+        "airportCode": "SAW",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 207,
+        "airportCode": "IST",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 208,
+        "airportCode": "ECN",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 209,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 209,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 209,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 209,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 210,
+        "airportCode": "SAW",
+        "departureTime": "09:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 211,
+        "airportCode": "ERZ",
+        "departureTime": "09:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 211,
+        "airportCode": "AYT",
+        "departureTime": "09:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 211,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 212,
+        "airportCode": "AMS",
+        "departureTime": "10:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 212,
+        "airportCode": "MAD",
+        "departureTime": "10:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 212,
+        "airportCode": "SKP",
+        "departureTime": "10:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "VAN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 213,
+        "airportCode": "BCN",
+        "departureTime": "10:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 214,
+        "airportCode": "SAW",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "STN",
+        "departureTime": "11:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "HAM",
+        "departureTime": "11:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "BCN",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "GVA",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "BER",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 215,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "ZRH",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "ZRH",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "ECN",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 216,
+        "airportCode": "GZT",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 217,
+        "airportCode": "GYD",
+        "departureTime": "12:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 217,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 217,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 217,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 217,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 217,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 218,
+        "airportCode": "SAW",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 218,
+        "airportCode": "VIE",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 218,
+        "airportCode": "VIE",
+        "departureTime": "13:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 220,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 221,
+        "airportCode": "SAW",
+        "departureTime": "14:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 221,
+        "airportCode": "OGU",
+        "departureTime": "14:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 222,
+        "airportCode": "DUS",
+        "departureTime": "15:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 223,
+        "airportCode": "DIY",
+        "departureTime": "15:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 223,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 223,
+        "airportCode": "DUS",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 223,
+        "airportCode": "AJI",
+        "departureTime": "15:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 223,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 224,
+        "airportCode": "ESB",
+        "departureTime": "16:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 225,
+        "airportCode": "AYT",
+        "departureTime": "16:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 225,
+        "airportCode": "SAW",
+        "departureTime": "16:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 225,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 225,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 225,
+        "airportCode": "MSR",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 226,
+        "airportCode": "ESB",
+        "departureTime": "17:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 228,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 228,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 229,
+        "airportCode": "ECN",
+        "departureTime": "18:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 229,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 229,
+        "airportCode": "COV",
+        "departureTime": "18:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 230,
+        "airportCode": "SAW",
+        "departureTime": "19:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 231,
+        "airportCode": "FCO",
+        "departureTime": "19:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 231,
+        "airportCode": "GNY",
+        "departureTime": "19:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 231,
+        "airportCode": "ESB",
+        "departureTime": "19:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 231,
+        "airportCode": "ESB",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 232,
+        "airportCode": "ASR",
+        "departureTime": "20:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 232,
+        "airportCode": "RZV",
+        "departureTime": "20:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "GZT",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "MQM",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "SZF",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "COV",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "ECN",
+        "departureTime": "20:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 233,
+        "airportCode": "TZX",
+        "departureTime": "20:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 234,
+        "airportCode": "ASR",
+        "departureTime": "21:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 234,
+        "airportCode": "EZS",
+        "departureTime": "21:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 234,
+        "airportCode": "BAL",
+        "departureTime": "21:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 234,
+        "airportCode": "JED",
+        "departureTime": "21:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 235,
+        "airportCode": "SAW",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 235,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 235,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 235,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 236,
+        "airportCode": "ESB",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 236,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 236,
+        "airportCode": "SKD",
+        "departureTime": "22:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 236,
+        "airportCode": "DUB",
+        "departureTime": "22:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 237,
+        "airportCode": "ESB",
+        "departureTime": "22:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 237,
+        "airportCode": "ECN",
+        "departureTime": "22:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 238,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 238,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 238,
+        "airportCode": "MED",
+        "departureTime": "23:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 238,
+        "airportCode": "SAW",
+        "departureTime": "23:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 239,
+        "airportCode": "CGN",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 239,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 239,
+        "airportCode": "COV",
+        "departureTime": "23:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 240,
+        "airportCode": "SAW",
+        "departureTime": "00:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 240,
+        "airportCode": "SAW",
+        "departureTime": "00:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 245,
+        "airportCode": "HAJ",
+        "departureTime": "02:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 245,
+        "airportCode": "CGN",
+        "departureTime": "02:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 248,
+        "airportCode": "SAW",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 248,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 248,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 249,
+        "airportCode": "ESB",
+        "departureTime": "04:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 250,
+        "airportCode": "DTM",
+        "departureTime": "05:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 250,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 250,
+        "airportCode": "SAW",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 251,
+        "airportCode": "TZX",
+        "departureTime": "05:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 251,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 251,
+        "airportCode": "GNY",
+        "departureTime": "05:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 252,
+        "airportCode": "ECN",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 252,
+        "airportCode": "GZT",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 252,
+        "airportCode": "SZF",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 252,
+        "airportCode": "TZX",
+        "departureTime": "06:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 252,
+        "airportCode": "MLX",
+        "departureTime": "06:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 252,
+        "airportCode": "COV",
+        "departureTime": "06:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 253,
+        "airportCode": "AMS",
+        "departureTime": "06:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 253,
+        "airportCode": "COV",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 254,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 254,
+        "airportCode": "ECN",
+        "departureTime": "07:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 254,
+        "airportCode": "SAW",
+        "departureTime": "07:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 254,
+        "airportCode": "STR",
+        "departureTime": "07:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 254,
+        "airportCode": "DIY",
+        "departureTime": "07:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 255,
+        "airportCode": "IST",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 256,
+        "airportCode": "ECN",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 256,
+        "airportCode": "SAW",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 256,
+        "airportCode": "MUC",
+        "departureTime": "08:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 256,
+        "airportCode": "MUC",
+        "departureTime": "08:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 257,
+        "airportCode": "SAW",
+        "departureTime": "08:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 257,
+        "airportCode": "DUB",
+        "departureTime": "08:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 257,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 257,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 257,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 257,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 258,
+        "airportCode": "TGD",
+        "departureTime": "09:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 258,
+        "airportCode": "SAW",
+        "departureTime": "09:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 259,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 259,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "MED",
+        "departureTime": "10:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "SAW",
+        "departureTime": "10:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "VAN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 261,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 262,
+        "airportCode": "DIY",
+        "departureTime": "11:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 262,
+        "airportCode": "SAW",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 262,
+        "airportCode": "LIS",
+        "departureTime": "11:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 262,
+        "airportCode": "FRA",
+        "departureTime": "11:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "CPH",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "MXP",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "BER",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 263,
+        "airportCode": "BRE",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "BSL",
+        "departureTime": "12:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "IST",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "IST",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "IST",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "IST",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "IST",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 264,
+        "airportCode": "LGW",
+        "departureTime": "12:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "GYD",
+        "departureTime": "12:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "MAN",
+        "departureTime": "12:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 265,
+        "airportCode": "CDG",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 266,
+        "airportCode": "SAW",
+        "departureTime": "13:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 267,
+        "airportCode": "ESB",
+        "departureTime": "13:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 268,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 268,
+        "airportCode": "VAN",
+        "departureTime": "14:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 268,
+        "airportCode": "WAW",
+        "departureTime": "14:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 269,
+        "airportCode": "ESB",
+        "departureTime": "14:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 269,
+        "airportCode": "BER",
+        "departureTime": "14:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 271,
+        "airportCode": "COV",
+        "departureTime": "15:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 271,
+        "airportCode": "JED",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 271,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 271,
+        "airportCode": "KSY",
+        "departureTime": "15:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 271,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 272,
+        "airportCode": "SAW",
+        "departureTime": "16:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 273,
+        "airportCode": "ESB",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 273,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 273,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 274,
+        "airportCode": "TZX",
+        "departureTime": "17:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 275,
+        "airportCode": "SAW",
+        "departureTime": "17:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 276,
+        "airportCode": "IST",
+        "departureTime": "18:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 276,
+        "airportCode": "IST",
+        "departureTime": "18:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 277,
+        "airportCode": "SAW",
+        "departureTime": "18:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 277,
+        "airportCode": "ECN",
+        "departureTime": "18:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 277,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 278,
+        "airportCode": "IST",
+        "departureTime": "19:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 279,
+        "airportCode": "SAW",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 279,
+        "airportCode": "ASR",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 279,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 279,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 279,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 280,
+        "airportCode": "ESB",
+        "departureTime": "20:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 281,
+        "airportCode": "GZT",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 281,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 281,
+        "airportCode": "COV",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 281,
+        "airportCode": "ERZ",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 281,
+        "airportCode": "ESB",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 281,
+        "airportCode": "HTY",
+        "departureTime": "20:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 282,
+        "airportCode": "MQM",
+        "departureTime": "21:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 282,
+        "airportCode": "SAW",
+        "departureTime": "21:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 282,
+        "airportCode": "SAW",
+        "departureTime": "21:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 282,
+        "airportCode": "ESB",
+        "departureTime": "21:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 283,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 283,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 283,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 284,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 284,
+        "airportCode": "COV",
+        "departureTime": "22:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 284,
+        "airportCode": "SAW",
+        "departureTime": "22:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 285,
+        "airportCode": "ECN",
+        "departureTime": "22:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 286,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 286,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 286,
+        "airportCode": "VKO",
+        "departureTime": "23:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 286,
+        "airportCode": "JED",
+        "departureTime": "23:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 287,
+        "airportCode": "SAW",
+        "departureTime": "23:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 287,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 287,
+        "airportCode": "IST",
+        "departureTime": "23:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 287,
+        "airportCode": "IST",
+        "departureTime": "23:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 293,
+        "airportCode": "EZS",
+        "departureTime": "02:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 293,
+        "airportCode": "JED",
+        "departureTime": "02:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 296,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 296,
+        "airportCode": "IST",
+        "departureTime": "04:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 296,
+        "airportCode": "COV",
+        "departureTime": "04:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 297,
+        "airportCode": "IKA",
+        "departureTime": "04:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 297,
+        "airportCode": "SAW",
+        "departureTime": "04:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 297,
+        "airportCode": "ESB",
+        "departureTime": "04:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 298,
+        "airportCode": "TZX",
+        "departureTime": "05:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 298,
+        "airportCode": "IST",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 298,
+        "airportCode": "SAW",
+        "departureTime": "05:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 299,
+        "airportCode": "RZV",
+        "departureTime": "05:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 299,
+        "airportCode": "TZX",
+        "departureTime": "05:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 299,
+        "airportCode": "DIY",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 299,
+        "airportCode": "EZS",
+        "departureTime": "05:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 300,
+        "airportCode": "GZT",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 300,
+        "airportCode": "SZF",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 300,
+        "airportCode": "VAN",
+        "departureTime": "06:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 300,
+        "airportCode": "ASR",
+        "departureTime": "06:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 300,
+        "airportCode": "COV",
+        "departureTime": "06:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 301,
+        "airportCode": "COV",
+        "departureTime": "06:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 302,
+        "airportCode": "BRU",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 302,
+        "airportCode": "BRU",
+        "departureTime": "07:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 302,
+        "airportCode": "AYT",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 302,
+        "airportCode": "FRA",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 302,
+        "airportCode": "FRA",
+        "departureTime": "07:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 302,
+        "airportCode": "SAW",
+        "departureTime": "07:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 303,
+        "airportCode": "IST",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 303,
+        "airportCode": "SAW",
+        "departureTime": "07:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 304,
+        "airportCode": "ECN",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 304,
+        "airportCode": "SAW",
+        "departureTime": "08:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 305,
+        "airportCode": "GNY",
+        "departureTime": "08:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 305,
+        "airportCode": "ESB",
+        "departureTime": "08:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 305,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 305,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 305,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 305,
+        "airportCode": "IST",
+        "departureTime": "08:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 306,
+        "airportCode": "SSH",
+        "departureTime": "09:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 306,
+        "airportCode": "SAW",
+        "departureTime": "09:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 307,
+        "airportCode": "ESB",
+        "departureTime": "09:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 307,
+        "airportCode": "CDG",
+        "departureTime": "09:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 308,
+        "airportCode": "SSH",
+        "departureTime": "10:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 308,
+        "airportCode": "STN",
+        "departureTime": "10:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 308,
+        "airportCode": "AMS",
+        "departureTime": "10:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "AJI",
+        "departureTime": "10:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "IST",
+        "departureTime": "10:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "SAW",
+        "departureTime": "10:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "STN",
+        "departureTime": "10:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "BCN",
+        "departureTime": "10:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 309,
+        "airportCode": "MAD",
+        "departureTime": "10:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 310,
+        "airportCode": "DIY",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 310,
+        "airportCode": "SAW",
+        "departureTime": "11:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "BCN",
+        "departureTime": "11:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "FRA",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 21
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "DUS",
+        "departureTime": "11:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "BER",
+        "departureTime": "11:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 311,
+        "airportCode": "IST",
+        "departureTime": "11:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "ZRH",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "ZRH",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 6
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "MUC",
+        "departureTime": "12:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 16
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "STR",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "GZT",
+        "departureTime": "12:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "IST",
+        "departureTime": "12:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 312,
+        "airportCode": "SAW",
+        "departureTime": "12:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "NUE",
+        "departureTime": "12:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "MSR",
+        "departureTime": "12:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "GYD",
+        "departureTime": "12:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 313,
+        "airportCode": "IST",
+        "departureTime": "12:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 315,
+        "airportCode": "ECN",
+        "departureTime": "13:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 316,
+        "airportCode": "IST",
+        "departureTime": "14:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 317,
+        "airportCode": "BEG",
+        "departureTime": "14:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 2
+    },
+    {
+        "flight_step": 318,
+        "airportCode": "SAW",
+        "departureTime": "15:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 319,
+        "airportCode": "DIY",
+        "departureTime": "15:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 319,
+        "airportCode": "IST",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 319,
+        "airportCode": "SAW",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 319,
+        "airportCode": "DUS",
+        "departureTime": "15:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 10
+    },
+    {
+        "flight_step": 319,
+        "airportCode": "IST",
+        "departureTime": "15:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 320,
+        "airportCode": "SKP",
+        "departureTime": "16:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 321,
+        "airportCode": "AYT",
+        "departureTime": "16:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 321,
+        "airportCode": "MQM",
+        "departureTime": "16:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 321,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 321,
+        "airportCode": "IST",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 321,
+        "airportCode": "ESB",
+        "departureTime": "16:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 322,
+        "airportCode": "ECN",
+        "departureTime": "17:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 322,
+        "airportCode": "SJJ",
+        "departureTime": "17:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 323,
+        "airportCode": "ECN",
+        "departureTime": "17:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 324,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 324,
+        "airportCode": "IST",
+        "departureTime": "18:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 324,
+        "airportCode": "SAW",
+        "departureTime": "18:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 324,
+        "airportCode": "ESB",
+        "departureTime": "18:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 324,
+        "airportCode": "COV",
+        "departureTime": "18:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 325,
+        "airportCode": "ECN",
+        "departureTime": "18:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 326,
+        "airportCode": "RZV",
+        "departureTime": "19:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 326,
+        "airportCode": "CAI",
+        "departureTime": "19:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 1
+    },
+    {
+        "flight_step": 327,
+        "airportCode": "MQM",
+        "departureTime": "19:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 327,
+        "airportCode": "VAN",
+        "departureTime": "19:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 327,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 327,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 327,
+        "airportCode": "IST",
+        "departureTime": "19:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 328,
+        "airportCode": "SAW",
+        "departureTime": "20:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 328,
+        "airportCode": "ESB",
+        "departureTime": "20:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 328,
+        "airportCode": "ASR",
+        "departureTime": "20:25",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "MQM",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "GZT",
+        "departureTime": "20:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 14
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "DIY",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 24
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "ATH",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 9
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "ECN",
+        "departureTime": "20:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "ERZ",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "SZF",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 8
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "COV",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "TZX",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "MLX",
+        "departureTime": "20:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "ESB",
+        "departureTime": "20:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "IST",
+        "departureTime": "20:45",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "COV",
+        "departureTime": "20:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "HAJ",
+        "departureTime": "20:50",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 329,
+        "airportCode": "CGN",
+        "departureTime": "20:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 5
+    },
+    {
+        "flight_step": 330,
+        "airportCode": "ASR",
+        "departureTime": "21:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 12
+    },
+    {
+        "flight_step": 330,
+        "airportCode": "ECN",
+        "departureTime": "21:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 330,
+        "airportCode": "ERZ",
+        "departureTime": "21:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 7
+    },
+    {
+        "flight_step": 330,
+        "airportCode": "ESB",
+        "departureTime": "21:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 331,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 331,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 331,
+        "airportCode": "IST",
+        "departureTime": "21:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 332,
+        "airportCode": "AYT",
+        "departureTime": "22:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 18
+    },
+    {
+        "flight_step": 332,
+        "airportCode": "SKD",
+        "departureTime": "22:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 3
+    },
+    {
+        "flight_step": 332,
+        "airportCode": "SAW",
+        "departureTime": "22:05",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 332,
+        "airportCode": "ESB",
+        "departureTime": "22:15",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 332,
+        "airportCode": "IST",
+        "departureTime": "22:20",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 333,
+        "airportCode": "COV",
+        "departureTime": "22:40",
+        "flightDuration": "2:15",
+        "weeklyFlights": 37
+    },
+    {
+        "flight_step": 334,
+        "airportCode": "ECN",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 334,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 334,
+        "airportCode": "IST",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 334,
+        "airportCode": "ECN",
+        "departureTime": "23:00",
+        "flightDuration": "2:15",
+        "weeklyFlights": 40
+    },
+    {
+        "flight_step": 334,
+        "airportCode": "VKO",
+        "departureTime": "23:10",
+        "flightDuration": "2:15",
+        "weeklyFlights": 4
+    },
+    {
+        "flight_step": 335,
+        "airportCode": "SAW",
+        "departureTime": "23:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 335,
+        "airportCode": "SAW",
+        "departureTime": "23:30",
+        "flightDuration": "2:15",
+        "weeklyFlights": 119
+    },
+    {
+        "flight_step": 335,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 335,
+        "airportCode": "IST",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    },
+    {
+        "flight_step": 335,
+        "airportCode": "ESB",
+        "departureTime": "23:35",
+        "flightDuration": "2:15",
+        "weeklyFlights": 72
+    },
+    {
+        "flight_step": 335,
+        "airportCode": "IST",
+        "departureTime": "23:55",
+        "flightDuration": "2:15",
+        "weeklyFlights": 269
+    }
+]

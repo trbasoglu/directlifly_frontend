@@ -119,7 +119,6 @@ const filteredDays = computed(() => {
 
     prevDay.value = days[dayIndex===0?6:dayIndex-1]
     nextDay.value = days[dayIndex===6?0:dayIndex+1]
-    console.log(prevDay.value)
     return [prevDay.value, selectedDay.value, nextDay.value]
   }
   return days

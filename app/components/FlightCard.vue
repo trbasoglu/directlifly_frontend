@@ -4,6 +4,7 @@
   <img
         :src="imageUrl"
         :alt="destination"
+        loading="lazy"
         class="absolute inset-0 h-full w-full object-cover transition-all duration-300 ease-in-out 
                 blur-[2px] brightness-90 group-hover:blur-[0px] group-hover:brightness-100 group-hover:scale-115"
         />
@@ -113,5 +114,18 @@ defineProps<{
   /* Dynamic Margin & Gap */
   margin-top: clamp(0.5rem, 3cqw, 1rem);
   gap: clamp(0.5rem, 3cqw, 1rem);
+}
+
+.card-title, 
+.card-time, 
+.flight-stats-text {
+  transition: opacity 0.3s ease;
+}
+
+/* 2. When the parent card is hovered, change the child opacity */
+.app-layout:hover .card-title,
+.app-layout:hover .card-time,
+.app-layout:hover .flight-stats-text {
+  opacity: 0.7; /* Adjust between 0 and 1 */
 }
 </style>
