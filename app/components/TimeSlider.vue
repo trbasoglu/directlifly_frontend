@@ -148,18 +148,6 @@ onUnmounted(() => {
   }
 }
 
-/* If your app uses a manual toggle (like a `.dark` class on the <body> or <html>), 
-   you can uncomment and use this block instead of the media query above:
-
-   :global(.dark) .time-slider-container {
-    --text-muted: #888888;
-    --text-active: #ffffff;
-    --track-bg: #333333;
-    --label-text: #ffffff;
-    --glider-glow: rgba(255, 59, 48, 0.4);
-} 
-*/
-
 .day-selector-relative {
   position: relative;
   margin-bottom: 30px;
