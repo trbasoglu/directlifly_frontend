@@ -75,7 +75,6 @@ const { data: countries, pending } = await useAsyncData('countrylist', async () 
 const filteredRows = computed(() => {
   // Always check if .value exists because useAsyncData is a Ref
   const list = countries.value || []
-  console.log(list)
   if (!search.value) return list
   
   const query = search.value.toLowerCase()

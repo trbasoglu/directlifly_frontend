@@ -1,0 +1,643 @@
+{
+  "AJI": {
+    "destination": "Agri",
+    "country": "Turkey",
+    "suggestedDays": "1-2",
+    "imageUrl": "https://images.pexels.com/photos/19323447/pexels-photo-19323447.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/scenic-view-of-mount-ararat-19323447/",
+    "tagline": "In the shadow of legendary Mount Ararat 🏔️"
+  },
+  "AMS": {
+    "destination": "Amsterdam",
+    "country": "Netherlands",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/17080606/pexels-photo-17080606.jpeg",
+    "imageAttribution": "Mattia Sacco",
+    "attributionUrl": "https://www.pexels.com/photo/canal-in-amsterdam-17080606/",
+    "tagline": "Canals and Cozy Cafes 🌷"
+  },
+  "ASR": {
+    "destination": "Kayseri",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/2899452/pexels-photo-2899452.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/mount-erciyes-2899452/",
+    "tagline": "Gateway to Cappadocia and Erciyes 🌋"
+  },
+  "ATH": {
+    "destination": "Athens",
+    "country": "Greece",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg",
+    "imageAttribution": "Pixabay",
+    "attributionUrl": "https://www.pexels.com/photo/low-angle-photograph-of-the-parthenon-during-daytime-164336/",
+    "tagline": "History at every corner 🏛️"
+  },
+    "AYT": {
+        "destination": "Antalya",
+        "country": "Turkey",
+        "suggestedDays": "4-5",
+        "imageUrl": "https://images.pexels.com/photos/2568461/pexels-photo-2568461.jpeg",
+        "imageAttribution": "Pexels",
+        "attributionUrl": "https://www.pexels.com/photo/aerial-view-of-city-near-body-of-water-2568461/",
+        "tagline": "The turquoise heart of the Riviera 🌊"
+    },
+    "BAL": {
+        "destination": "Batman",
+        "country": "Turkey",
+        "suggestedDays": "1-2",
+        "imageUrl": "https://images.pexels.com/photos/14840813/pexels-photo-14840813.jpeg",
+        "imageAttribution": "Pexels",
+        "attributionUrl": "https://www.pexels.com/photo/hasankeyf-ancient-city-14840813/",
+        "tagline": "Mesopotamian history meets the Tigris 🏺"
+    },
+    "BCN": {
+    "destination": "Barcelona",
+    "country": "Spain",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg",
+    "imageAttribution": "Aleksandar Pasaric",
+    "attributionUrl": "https://www.pexels.com/photo/aerial-photography-of-city-1388030/",
+    "tagline": "Sun, Architecture, and Tapas 🥘"
+  },
+  "BEG": {
+    "destination": "Belgrade",
+    "country": "Serbia",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/3572886/pexels-photo-3572886.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/saint-sava-temple-in-belgrade-3572886/",
+    "tagline": "Where the Danube meets the Sava 🏰"
+  },
+
+  "BER": {
+    "destination": "Berlin",
+    "country": "Germany",
+    "suggestedDays": "4",
+    "imageUrl": "https://images.pexels.com/photos/2570063/pexels-photo-2570063.jpeg",
+    "imageAttribution": "Stefan Widua",
+    "attributionUrl": "https://www.pexels.com/photo/concrete-structure-2570063/",
+    "tagline": "The heartbeat of Europe 🎶"
+  },
+  "BRE": {
+    "destination": "Bremen",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/15754508/pexels-photo-15754508.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/city-hall-and-roland-statue-in-bremen-15754508/",
+    "tagline": "Fairytales and Hanseatic heritage 🎶"
+  },
+  "BRU": {
+    "destination": "Brussels",
+    "country": "Belgium",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/11051515/pexels-photo-11051515.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/the-grand-place-in-brussels-at-night-11051515/",
+    "tagline": "Art Nouveau, chocolate, and the heart of Europe 🍫"
+  },
+  "BSL": {
+    "destination": "Basel",
+    "country": "Switzerland",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/12313627/pexels-photo-12313627.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/rhine-river-in-basel-switzerland-12313627/",
+    "tagline": "Where the Rhine meets art and design 🎨"
+  },
+  "CAI": {
+    "destination": "Cairo",
+    "country": "Egypt",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/pyramids-of-giza-262780/",
+    "tagline": "The City of a Thousand Minarets and Ancient Kings 🐫"
+  },
+  "CDG": {
+    "destination": "Paris (Charles de Gaulle)",
+    "country": "France",
+    "suggestedDays": "5-7",
+    "imageUrl": "https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/eiffel-tower-paris-699466/",
+    "tagline": "The eternal City of Light and Romance 🥖"
+  },
+  "CGN": {
+    "destination": "Cologne",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/1119561/pexels-photo-1119561.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/cologne-cathedral-germany-1119561/",
+    "tagline": "Gothic spires and Rhine-side spirit ⛪"
+  },
+  "COV": {
+    "destination": "Mersin (Cukurova)",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/12316130/pexels-photo-12316130.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/maidens-castle-in-mersin-12316130/",
+    "tagline": "Sun, sea, and palm-lined boulevards 🌴"
+  },
+  "CPH": {
+    "destination": "Copenhagen",
+    "country": "Denmark",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/632522/pexels-photo-632522.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/nyhavn-district-in-copenhagen-632522/",
+    "tagline": "Hygge, harbor views, and Nordic design 🇩🇰"
+  },
+  "DIY": {
+    "destination": "Diyarbakir",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/17234676/pexels-photo-17234676.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/ancient-city-walls-17234676/",
+    "tagline": "Ancient basalt walls and Mesopotamian soul 🧱"
+  },
+  "DTM": {
+    "destination": "Dortmund",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/4011400/pexels-photo-4011400.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/view-of-westfalenstadion-4011400/",
+    "tagline": "Industrial heritage and football fever ⚽"
+  },
+  "DUB": {
+    "destination": "Dublin",
+    "country": "Ireland",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/1036440/pexels-photo-1036440.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/temple-bar-in-dublin-1036440/",
+    "tagline": "Literary legends and a warm Irish welcome 🍀"
+  },
+  "DUS": {
+    "destination": "Dusseldorf",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/1689230/pexels-photo-1689230.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/river-with-bridge-and-city-skyline-1689230/",
+    "tagline": "Fashion, art, and the longest bar in the world 🎨"
+  },
+  "ECN": {
+    "destination": "Ercan (Nicosia)",
+    "country": "North Cyprus",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/20387369/pexels-photo-20387369.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/kyrenia-harbor-10363261/",
+    "tagline": "Mediterranean sun and split-city stories ☀️"
+  },
+  "ERZ": {
+    "destination": "Erzurum",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/36389557/pexels-photo-36389557.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/mountain-under-clouds-1563604/",
+    "tagline": "Peak adventure and Anatolian heritage ⛷️"
+  },
+  "ESB": {
+    "destination": "Ankara",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/36343135/pexels-photo-36343135.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/anitkabir-mausoleum-11832049/",
+    "tagline": "The modern heart of the Republic 🏛️"
+  },
+  "EZS": {
+    "destination": "Elazig",
+    "country": "Turkey",
+    "suggestedDays": "1-2",
+    "imageUrl": "https://images.pexels.com/photos/12301825/pexels-photo-12301825.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/tourists-at-anitkabir-mausoleum-under-clear-blue-sky-36343135/",
+    "tagline": "Ancient Harput and Harput’s musical soul 🎻"
+  },
+  "FCO": {
+    "destination": "Rome (Fiumicino)",
+    "country": "Italy",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/532263/pexels-photo-532263.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/the-colosseum-rome-532263/",
+    "tagline": "The Eternal City of empires and espresso 🇮🇹"
+  },
+  "FRA": {
+    "destination": "Frankfurt",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/3405615/pexels-photo-3405615.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/cityscape-of-frankfurt-am-main-3405615/",
+    "tagline": "Skylines, cider, and the gateway to Europe 🥨"
+  },
+  "GNY": {
+    "destination": "Sanliurfa",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/13769134/pexels-photo-13769134.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/balikli-gol-sanliurfa-13769134/",
+    "tagline": "Where history began: Göbeklitepe and Prophets 🏹"
+  },
+  "GVA": {
+    "destination": "Geneva",
+    "country": "Switzerland",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/4392446/pexels-photo-4392446.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/lake-geneva-jet-d-eau-4392446/",
+    "tagline": "Diplomacy and luxury by the Alpine lake ⌚"
+  },
+  "GYD": {
+    "destination": "Baku",
+    "country": "Azerbaijan",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/2613589/pexels-photo-2613589.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/flame-towers-baku-2613589/",
+    "tagline": "Where old-world fire meets futuristic skylines 🔥"
+  },
+  "GZT": {
+    "destination": "Gaziantep",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/16834110/pexels-photo-16834110.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/zeugma-mosaic-museum-16834110/",
+    "tagline": "The world's capital of flavor and pistachio 🥘"
+  },
+  "HAJ": {
+    "destination": "Hanover",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/3382717/pexels-photo-3382717.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/new-town-hall-in-hanover-3382717/",
+    "tagline": "Green gardens and royal fairgrounds 🌳"
+  },
+  "HAM": {
+    "destination": "Hamburg",
+    "country": "Germany",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/1753170/pexels-photo-1753170.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/hamburg-port-at-sunset-1753170/",
+    "tagline": "The Gateway to the World and maritime magic ⚓"
+  },
+  "HTY": {
+    "destination": "Hatay",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/16834110/pexels-photo-16834110.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/mosaic-museum-art-16834110/",
+    "tagline": "A mosaic of cultures and culinary wonders 🏺"
+  },
+  "IKA": {
+    "destination": "Tehran (Imam Khomeini)",
+    "country": "Iran",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/11096739/pexels-photo-11096739.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/azadi-tower-tehran-11096739/",
+    "tagline": "Persian history beneath the Alborz mountains 🏔️"
+  },
+  "IST": {
+    "destination": "Istanbul",
+    "country": "Turkey",
+    "suggestedDays": "5-7",
+    "imageUrl": "https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/hagia-sophia-museum-1549326/",
+    "tagline": "The city where continents and cultures collide 🌉"
+  },
+  "JED": {
+    "destination": "Jeddah",
+    "country": "Saudi Arabia",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/13511451/pexels-photo-13511451.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/al-balad-historical-jeddah-13511451/",
+    "tagline": "The Bride of the Red Sea and ancient coral gates 🌊"
+  },
+  "KSY": {
+    "destination": "Kars",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/15104437/pexels-photo-15104437.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/ancient-city-of-ani-15104437/",
+    "tagline": "Winter fairytales and the ruins of Ani ❄️"
+  },
+  "LGW": {
+    "destination": "London (Gatwick)",
+    "country": "United Kingdom",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/big-ben-london-460672/",
+    "tagline": "Iconic landmarks and royal traditions 🎡"
+  },
+  "LIS": {
+    "destination": "Lisbon",
+    "country": "Portugal",
+    "suggestedDays": "3-5",
+    "imageUrl": "https://images.pexels.com/photos/31630079/pexels-photo-31630079.jpeg",
+    "imageAttribution": "Riccardo Toso",
+    "attributionUrl": "https://www.pexels.com/photo/iconic-yellow-tram-in-lisbon-s-historic-streets-31630079/",
+    "tagline": "Explore the Seven Hills 🚋"
+  },
+  "LXR": {
+    "destination": "Luxor",
+    "country": "Egypt",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/4356144/pexels-photo-4356144.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/karnak-temple-complex-4356144/",
+    "tagline": "The world's greatest open-air museum 🏺"
+  },
+  "MAD": {
+    "destination": "Madrid",
+    "country": "Spain",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/3722818/pexels-photo-3722818.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/gran-via-madrid-3722818/",
+    "tagline": "Golden art triangles and non-stop energy 🇪🇸"
+  },
+  "MAN": {
+    "destination": "Manchester",
+    "country": "United Kingdom",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/15441541/pexels-photo-15441541.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/manchester-cityscape-15441541/",
+    "tagline": "Industrial grit and musical greatness 🎸"
+  },
+  "MED": {
+    "destination": "Medina",
+    "country": "Saudi Arabia",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/16644026/pexels-photo-16644026.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/al-masjid-an-nabawi-16644026/",
+    "tagline": "The Radiant City and sanctuary of peace 🕌"
+  },
+  "MLX": {
+    "destination": "Malatya",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/15104437/pexels-photo-15104437.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/mount-nemrut-15104437/",
+    "tagline": "The golden land of apricots 🍑"
+  },
+  "MQM": {
+    "destination": "Mardin",
+    "country": "Turkey",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/13554030/pexels-photo-13554030.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/ancient-stone-city-13554030/",
+    "tagline": "A stone-carved tale of time 🏺"
+  },
+  "MSR": {
+    "destination": "Mus",
+    "country": "Turkey",
+    "suggestedDays": "1-2",
+    "imageUrl": "https://images.pexels.com/photos/12046835/pexels-photo-12046835.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/snowy-mountains-12046835/",
+    "tagline": "Anatolian plains and historic bridges 🏞️"
+  },
+  "MUC": {
+    "destination": "Munich",
+    "country": "Germany",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/1304523/pexels-photo-1304523.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/marienplatz-in-munich-1304523/",
+    "tagline": "Bavarian spirit and beer garden bliss 🥨"
+  },
+  "MXP": {
+    "destination": "Milan (Malpensa)",
+    "country": "Italy",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/586687/pexels-photo-586687.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/duomo-di-milano-586687/",
+    "tagline": "Fashion capitals and Gothic spires 🇮🇹"
+  },
+  "NUE": {
+    "destination": "Nuremberg",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/13645068/pexels-photo-13645068.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/old-town-nuremberg-13645068/",
+    "tagline": "Medieval magic and toy-making history 🧸"
+  },
+  "OGU": {
+    "destination": "Ordu-Giresun",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/18260273/pexels-photo-18260273.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/cable-car-over-ordu-city-18260273/",
+    "tagline": "The airport built on the sea 🌊"
+  },
+  "ORY": {
+    "destination": "Paris (Orly)",
+    "country": "France",
+    "suggestedDays": "5-7",
+    "imageUrl": "https://images.pexels.com/photos/2363/france-landmark-lights-night.jpg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/eiffel-tower-paris-france-2363/",
+    "tagline": "The stylish gateway to the Left Bank 🥖"
+  },
+  "RZV": {
+    "destination": "Rize-Artvin",
+    "country": "Turkey",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/8140411/pexels-photo-8140411.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/tea-plantations-rize-8140411/",
+    "tagline": "Infinite green and the home of Turkish tea 🍵"
+  },
+  "SAW": {
+    "destination": "Istanbul",
+    "country": "Turkey",
+    "suggestedDays": "5-7",
+    "imageUrl": "https://images.pexels.com/photos/36124216/pexels-photo-36124216.jpeg",
+    "imageAttribution": "Emre Simsek",
+    "attributionUrl": "https://www.pexels.com/tr-tr/fotograf/istanbul-da-gun-batiminda-kiz-kulesi-nin-havadan-gorunumu-36124216/",
+    "tagline": "The vibrant gateway to Istanbul's Asian side ⛴️"
+  },
+  "SJJ": {
+    "destination": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/2030062/pexels-photo-2030062.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/sebilj-fountain-in-sarajevo-2030062/",
+    "tagline": "The Jerusalem of Europe and Balkan soul ☕"
+  },
+  "SKD": {
+    "destination": "Samarkand",
+    "country": "Uzbekistan",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/10135315/pexels-photo-10135315.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/registan-square-samarkand-10135315/",
+    "tagline": "Jewel of the Silk Road and turquoise domes 🕌"
+  },
+  "SKP": {
+    "destination": "Skopje",
+    "country": "North Macedonia",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/8454170/pexels-photo-8454170.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/stone-bridge-skopje-8454170/",
+    "tagline": "City of statues and Stone Bridge stories 🗿"
+  },
+  "SPX": {
+    "destination": "Cairo",
+    "country": "Egypt",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/3873681/pexels-photo-3873681.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/egyptian-pyramids-during-sunset-3873681/",
+    "tagline": "Landing at the feet of the Great Pyramids 🦁"
+  },
+  "SSH": {
+    "destination": "Sharm El Sheikh",
+    "country": "Egypt",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/3354441/pexels-photo-3354441.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/resort-in-sharm-el-sheikh-3354441/",
+    "tagline": "Crystal reefs and Red Sea relaxation 🤿"
+  },
+  "STN": {
+    "destination": "London (Stansted)",
+    "country": "United Kingdom",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/big-ben-london-460672/",
+    "tagline": "Modern gateways to Britain's capital 🇬🇧"
+  },
+  "STR": {
+    "destination": "Stuttgart",
+    "country": "Germany",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/10534277/pexels-photo-10534277.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/stuttgart-library-10534277/",
+    "tagline": "Engineering excellence and vineyard valleys 🚗"
+  },
+  "SZF": {
+    "destination": "Samsun",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/8143161/pexels-photo-8143161.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/samsun-cityscape-13940327/",
+    "tagline": "Birthplace of independence on the Black Sea ☀️"
+  },
+  "TBZ": {
+    "destination": "Tabriz",
+    "country": "Iran",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/13015900/pexels-photo-13015900.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/blue-mosque-tabriz-13015900/",
+    "tagline": "The historic bazaar and the Blue Mosque 🕌"
+  },
+  "TGD": {
+    "destination": "Podgorica",
+    "country": "Montenegro",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/14352011/pexels-photo-14352011.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/millennium-bridge-podgorica-14352011/",
+    "tagline": "Rivers, bridges, and the gateway to the Balkans 🏔️"
+  },
+  "TZX": {
+    "destination": "Trabzon",
+    "country": "Turkey",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/32261297/pexels-photo-32261297.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/sumela-monastery-8786433/",
+    "tagline": "Cloudy peaks and cliffside monasteries 🏔️"
+  },
+  "VAN": {
+    "destination": "Van",
+    "country": "Turkey",
+    "suggestedDays": "2-3",
+    "imageUrl": "https://images.pexels.com/photos/18241031/pexels-photo-18241031.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/akdamar-island-18241031/",
+    "tagline": "Turquoise lakes and the world's best breakfast 🍳"
+  },
+  "VAS": {
+    "destination": "Sivas",
+    "country": "Turkey",
+    "suggestedDays": "1-2",
+    "imageUrl": "https://images.pexels.com/photos/18413645/pexels-photo-18413645.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/cifte-minareli-medrese-sivas-18413645/",
+    "tagline": "Seljuk architecture and thermal springs 🏛️"
+  },
+  "VIE": {
+    "destination": "Vienna",
+    "country": "Austria",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/2536531/pexels-photo-2536531.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/vienna-opera-house-2536531/",
+    "tagline": "Imperial palaces and classical waltzes 🎻"
+  },
+  "VKO": {
+    "destination": "Moscow (Vnukovo)",
+    "country": "Russia",
+    "suggestedDays": "4-5",
+    "imageUrl": "https://images.pexels.com/photos/236229/pexels-photo-236229.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/st-basil-s-cathedral-236229/",
+    "tagline": "Red Square grandeur and imperial nights ❄️"
+  },
+  "WAW": {
+    "destination": "Warsaw",
+    "country": "Poland",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/15474661/pexels-photo-15474661.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/warsaw-old-town-15474661/",
+    "tagline": "The phoenix city rising with history and heart 🇵🇱"
+  },
+  "ZRH": {
+    "destination": "Zurich",
+    "country": "Switzerland",
+    "suggestedDays": "3-4",
+    "imageUrl": "https://images.pexels.com/photos/1524105/pexels-photo-1524105.jpeg",
+    "imageAttribution": "Pexels",
+    "attributionUrl": "https://www.pexels.com/photo/zurich-cityscape-1524105/",
+    "tagline": "Lakeside luxury and Alpine elegance 🍫"
+  }
+
+}
